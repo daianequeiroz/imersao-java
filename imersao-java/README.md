@@ -3,12 +3,12 @@
 # Alura Sticker 
 
 
-| 🪧 Vitrine.Dev |     |
+| [🔥](Vitrine.Dev) |     |
 | -------------  | --- |
 | ✨ Nome        | Alura Sticker
 | 🏷️ Tecnologias | Java, Spring, MongoDB, Heroku, Git
-| 🚀 URL         | https://daiane-linguagens-api.herokuapp.com/linguagens
-| 🤿 Desafio | https://github.com/daianequeiroz/imersao-java
+| 🚀 Deploy         | https://daiane-linguagens-api.herokuapp.com/linguagens
+| 💼 Repositório | https://github.com/daianequeiroz/imersao-java
 
 
 ## 🔨 Tecnologias
